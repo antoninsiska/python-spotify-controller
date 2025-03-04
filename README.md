@@ -1,7 +1,10 @@
-# Spotify Now Playing - Desktop Application
+# Python Spotify Controller - Desktop Application
 
 ## Overview
 This is a Python-based desktop application that displays the currently playing song on Spotify. It also allows users to control playback (play, pause, skip, previous) and search for songs to play. The application uses the Spotify API to fetch real-time track information and is built using the Tkinter GUI library.
+
+## Disclaimer
+This is an **unofficial** application and is **not affiliated with, endorsed, or sponsored by Spotify**. It simply uses the Spotify Web API to provide playback control and track information.
 
 ## Features
 - Displays the currently playing song, artist, and album information.
@@ -56,5 +59,7 @@ To use this application, you will need:
 - Make sure your redirect URI in the Spotify Developer Dashboard matches the one in the script.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**. See the LICENSE file for details.
+
+**Note:** This project is not affiliated with or endorsed by Spotify.
 
